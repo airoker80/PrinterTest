@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_qrcode.xml",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\layout\\activity_print_qrcode.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_image.xml",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\layout\\activity_print_image.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_barcode.xml",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\layout\\activity_print_barcode.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_items.xml",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\layout\\activity_print_items.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_cmd.xml",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\layout\\activity_print_cmd.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_text.xml",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\layout\\activity_print_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_items.xml",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\layout\\activity_main_items.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_printsetting.xml",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\layout\\activity_printsetting.xml"
+    }
+]

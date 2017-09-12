@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qrcode.png",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\drawable\\qrcode.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoimage.jpg",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\drawable\\logoimage.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gl.png",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\drawable\\gl.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PrinterTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\device_name.xml",
+        "source": "E:\\AndroidStudioProject\\PrinterTest1\\app\\src\\main\\res\\drawable\\device_name.xml"
+    }
+]

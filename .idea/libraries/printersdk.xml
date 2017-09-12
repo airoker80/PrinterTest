@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="printersdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/printersdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
